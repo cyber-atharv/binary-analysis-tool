@@ -11,3 +11,6 @@ All notable changes to binary-analysis-tool will be documented in this file.
 ## [0.1.2] - 2025-12-20
 - feat: calculate section Shannon entropy to detect packed or encrypted binaries
 
+## [0.1.3] - 2025-12-22
+- feat: integrate YARA engine for signature-based malware artifact detection
+
